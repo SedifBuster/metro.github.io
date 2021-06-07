@@ -1,1 +1,1 @@
-# metro.github.io
+# HTML/CSS no-adaptive page
